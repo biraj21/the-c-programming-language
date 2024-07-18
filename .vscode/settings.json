@@ -1,0 +1,7 @@
+{
+  "files.insertFinalNewline": true,
+  "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: LLVM, ColumnLimit: 120 }",
+  "files.associations": {
+    "stdio.h": "c"
+  }
+}
