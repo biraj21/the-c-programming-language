@@ -12,7 +12,7 @@ int main(void) {
   printf("\\bhe\bllo, world!\n"); // backspace - moves the curser one position back
   // printf("\d\\dhello, world!\n");
   // printf("\e\\ehello, world!\n");
-  printf("\f\\fhello, world!\n"); // form feed
+  printf("\f\\fhello, world!\n"); // form feed - historically used in printers to advance to the next page
   // printf("\g\\ghello, world!\n");
   // printf("\h\\hhello, world!\n");
   // printf("\i\\ihello, world!\n");
@@ -24,8 +24,7 @@ int main(void) {
   // printf("\o\\ohello, world!\n");
   // printf("\p\\phello, world!\n");
   // printf("\q\\qhello, world!\n");
-  printf("\\rhe\rllo, world!\n"); // carriage return - moves the cursor to the
-                                  // beginning of the current line.
+  printf("\\rhe\rllo, world!\n"); // carriage return - moves the cursor to the beginning of the current line
   // printf("\s\\shello, world!\n");
   printf("\t\\thello, world!\n");
   printf("\u00A9\\u00A9hello, world!\n");
