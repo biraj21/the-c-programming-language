@@ -5,10 +5,10 @@ This repository contains my solutions to the exercises from the book "The C Prog
 ## How to Run
 
 1. Clone the repository:
-2. 
-```bash
-git clone https://github.com/biraj21/the-c-programming-language
-```
+
+   ```bash
+   git clone https://github.com/biraj21/the-c-programming-language
+    ```
 
 3. Compile a specific program:
 
