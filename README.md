@@ -5,12 +5,12 @@ This repository contains my solutions to the exercises from the book "The C Prog
 ## How to Run
 
 1. Clone the repository:
+2. 
+```bash
+git clone https://github.com/biraj21/the-c-programming-language
+```
 
-## How to Run
-
-1. Clone the repository:
-
-2. Compile a specific program:
+3. Compile a specific program:
 
    ```bash
    make bin/[chapter-number]-[exercise-number]
@@ -22,7 +22,7 @@ This repository contains my solutions to the exercises from the book "The C Prog
    make bin/1-1
    ```
 
-3. Run the compiled program:
+4. Run the compiled program:
 
    ```bash
    ./bin/[chapter-number]-[exercise-number]
